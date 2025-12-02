@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Nassah101
-- 👀 I’m interested in . software developing..
-- 🌱 I’m currently learning C...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on WhatsApp +2349068908541...
+- 👋 Hi, I’m Hassan Wasiu
+- 👀 I’m interested in Ai and Bioinformatics
+- 🌱 Data Scientist at Curenetics.io
+- 📫 How to reach me on WhatsApp +2349068908541
+- linkedin: www.linkedin.com/in/wasiu-hassan-665353208
+- link to cv : 
 
 <!---
 Nassah101/Nassah101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
