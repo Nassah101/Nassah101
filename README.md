@@ -2,6 +2,7 @@
 - 👀 I’m interested in Ai and Bioinformatics
 - 🌱 Data Scientist at Curenetics.io
 - 📫 How to reach me on WhatsApp +2349068908541
+- Email: hassanwasiu00@gmail.com
 - linkedin: www.linkedin.com/in/wasiu-hassan-665353208
 - link to cv : 
 
