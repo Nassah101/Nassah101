@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hassan Wasiu
-- 👀 I’m interested in Ai and Bioinformatics
+- 👀 AI/ML Data scientist, LLM and Transformers
 - 🌱 Data Scientist at Curenetics.io
 - 📫 How to reach me on WhatsApp +2349068908541
 - Email: hassanwasiu00@gmail.com
